@@ -22,6 +22,7 @@ class App : Application() {
         //嘿嘿测试
         //继续提交
         //1
+        //333 的分支新增代码
         EventBusInitializer.init(this)
     }
 
