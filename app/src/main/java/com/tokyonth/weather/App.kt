@@ -21,7 +21,7 @@ class App : Application() {
 
         //嘿嘿测试
         //继续提交
-
+        //1
         EventBusInitializer.init(this)
     }
 
