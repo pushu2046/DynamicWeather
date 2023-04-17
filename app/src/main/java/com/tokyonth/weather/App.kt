@@ -19,6 +19,8 @@ class App : Application() {
         super.onCreate()
 
 
+        //嘿嘿测试
+        //继续提交
 
         EventBusInitializer.init(this)
     }
